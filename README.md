@@ -10,3 +10,6 @@ export default {
     });
   }
 }
+name = "remove-csp-worker"
+main = "worker.js"
+compatibility_date = "2024-08-01"
